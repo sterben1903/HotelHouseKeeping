@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\BusinessObject",
+    "\\DataAccessing",
+    "\\DataAccessing\\bin",
+    "\\DataAccessing\\obj",
+    "\\HotelHousekeepingApp",
+    "\\HotelHousekeepingApp\\bin",
+    "\\HotelHousekeepingApp\\obj",
+    "\\HotelHousekeepingApp\\obj\\Release"
+  ],
+  "SelectedNode": "\\DataAccessing\\RoomDAO.cs",
+  "PreviewInSolutionExplorer": false
+}

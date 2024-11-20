@@ -1,0 +1,165 @@
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+D:\down\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\down\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\down\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\down\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\down\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\down\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+D:\Trash\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\Trash\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\Trash\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\Trash\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\Trash\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\Trash\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+E:\KY5\PRN211\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.deps.json
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\DataAccessing.pdb
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.AssemblyInfo.cs
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.csproj.CopyComplete
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\refint\DataAccessing.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\DataAccessing.pdb
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\DataAccessing\obj\Debug\net6.0\ref\DataAccessing.dll

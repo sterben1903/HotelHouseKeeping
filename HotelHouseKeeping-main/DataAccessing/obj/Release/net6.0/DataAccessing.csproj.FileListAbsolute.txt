@@ -1,0 +1,15 @@
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Release\net6.0\DataAccessing.deps.json
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Release\net6.0\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Release\net6.0\DataAccessing.pdb
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Release\net6.0\BusinessObject.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\bin\Release\net6.0\BusinessObject.pdb
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.csproj.AssemblyReference.cache
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.AssemblyInfoInputs.cache
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.AssemblyInfo.cs
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.csproj.CoreCompileInputs.cache
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.csproj.CopyComplete
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\refint\DataAccessing.dll
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\DataAccessing.pdb
+D:\Downloads\HotelHouseKeeping-main\DataAccessing\obj\Release\net6.0\ref\DataAccessing.dll

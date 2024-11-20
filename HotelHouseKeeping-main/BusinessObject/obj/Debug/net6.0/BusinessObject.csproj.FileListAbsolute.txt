@@ -1,0 +1,132 @@
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\OneDrive\Desktop\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\down\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\down\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\down\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\down\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\down\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+C:\Users\ADMIN\Downloads\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\down\projectprn\project-20221110T173550Z-001\project\HotelHousekeeping\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\Trash\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Trash\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Trash\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Trash\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\Downloads\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+E:\KY5\PRN211\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.deps.json
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\bin\Debug\net6.0\BusinessObject.pdb
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.AssemblyReference.cache
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfoInputs.cache
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.AssemblyInfo.cs
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.csproj.CoreCompileInputs.cache
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\refint\BusinessObject.dll
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\BusinessObject.pdb
+D:\FPT University\CN5\PRN211_LongT5\Project\HotelHouseKeeping-main\BusinessObject\obj\Debug\net6.0\ref\BusinessObject.dll

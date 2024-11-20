@@ -1,0 +1,15 @@
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\bin\Debug\net6.0\DataAcess.deps.json
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\bin\Debug\net6.0\DataAcess.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\bin\Debug\net6.0\DataAcess.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\bin\Debug\net6.0\BusinessObject.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\bin\Debug\net6.0\BusinessObject.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.csproj.AssemblyReference.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.AssemblyInfoInputs.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.AssemblyInfo.cs
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.csproj.CoreCompileInputs.cache
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.csproj.CopyComplete
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\refint\DataAcess.dll
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\DataAcess.pdb
+D:\down\fptu\ki5\PRN211\Project\HotelHousekeeping\DataAccess\obj\Debug\net6.0\ref\DataAcess.dll
